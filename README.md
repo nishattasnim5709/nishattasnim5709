@@ -20,4 +20,9 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 ![Snake animation](https://github.com/nishattasnim5709/nishattasnim5709/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
