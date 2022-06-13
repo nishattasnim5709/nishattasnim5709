@@ -18,3 +18,6 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 [![trophy](https://github-profile-trophy.vercel.app/?username=nishattasnim5709&theme=dark_lover)](https://github.com/nishattasnim5709/github-profile-trophy)
 
 ![Snake animation](https://github.com/nishattasnim5709/nishattasnim5709/blob/output/github-contribution-grid-snake.svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
