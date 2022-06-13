@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/nishattasnim0078/" target="blank"><img align="center" src="Facebook.png" title = "Facebook" alt="" height="40" /></a>
 </p>
 
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Glad to see you here! <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishattasnim5709&label=Profile%20visitors&color=0e75b6&style=flat" alt="nishattasnim5709" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nishattasnim5709&theme=dark_lover)](https://github.com/nishattasnim5709/github-profile-trophy)
 
