@@ -14,3 +14,9 @@
 </p>
 
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+<p align="center">
+  <a href="https://github.com/sponsors/ryo-ma">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+  </a>
+</p>
