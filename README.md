@@ -25,4 +25,3 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[GitHub Readme Stats Repo](https://github.com/nishattasnim5709/github-readme-stats) and [GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
